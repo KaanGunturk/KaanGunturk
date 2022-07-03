@@ -8,7 +8,7 @@ Hi 👋 My name is Yasir Kağan Güntürk
 
   
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="50" height="50" alt="<SELENIUM" /></a>
-    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"><img src="https://cdn2.vectorstock.com/i/1000x1000/49/16/testing-icon-for-graphic-vector-30564916.jpg" width="50" height="50" alt="TESNG" /></a>
+    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"><img src="https://cdn2.vectorstock.com/i/1000x1000/49/16/testing-icon-for-graphic-vector-30564916.jpg" width="50" height="50" alt="TESTNG" /></a>
     <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://koraypeker.com/wp-content/uploads/2020/04/postman.jpg" width="50" height="50" alt="POSTMAN" /></a>
     <a href="https://cucumber.io" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/2544/jasVAxyJ.png" width="50" height="50" alt="CUCUMBER" /></a>
   <a href="https://rest-assured.io" target="_blank" rel="noreferrer"><img src="https://rest-assured.io/img/logo-transparent.png" width="50" height="50" alt="REST-ASSURED" /></a>
