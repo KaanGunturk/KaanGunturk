@@ -8,12 +8,12 @@ Hi 👋 My name is Yasir Kağan Güntürk
 
   
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="50" height="50" alt="<SELENIUM" /></a>
-    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"><img src="https://cdn2.vectorstock.com/i/1000x1000/49/16/testing-icon-for-graphic-vector-30564916.jpg" width="36" height="36" alt="TESNG" /></a>
-    <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://koraypeker.com/wp-content/uploads/2020/04/postman.jpg" width="36" height="36" alt="POSTMAN" /></a>
-    <a href="https://cucumber.io" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/2544/jasVAxyJ.png" width="36" height="36" alt="CUCUMBER" /></a>
-  <a href="https://rest-assured.io" target="_blank" rel="noreferrer"><img src="https://rest-assured.io/img/logo-transparent.png" width="36" height="36" alt="REST-ASSURED" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"><img src="https://cdn2.vectorstock.com/i/1000x1000/49/16/testing-icon-for-graphic-vector-30564916.jpg" width="50" height="50" alt="TESNG" /></a>
+    <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://koraypeker.com/wp-content/uploads/2020/04/postman.jpg" width="50" height="50" alt="POSTMAN" /></a>
+    <a href="https://cucumber.io" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/2544/jasVAxyJ.png" width="50" height="50" alt="CUCUMBER" /></a>
+  <a href="https://rest-assured.io" target="_blank" rel="noreferrer"><img src="https://rest-assured.io/img/logo-transparent.png" width="50" height="50" alt="REST-ASSURED" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" /></a>
   
 </p>
                     
