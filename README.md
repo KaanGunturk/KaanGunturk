@@ -10,7 +10,7 @@ Hi 👋 My name is Yasir Kağan Güntürk
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="36" height="36" alt="<SELENIUM" /></a>
     <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"><img src="https://cdn2.vectorstock.com/i/1000x1000/49/16/testing-icon-for-graphic-vector-30564916.jpg" width="36" height="36" alt="TESNG" /></a>
-    <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="http://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" width="36" height="36" alt="TESNG" /></a>
+    <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://koraypeker.com/wp-content/uploads/2020/04/postman.jpg" width="36" height="36" alt="TESNG" /></a>
     <a href="https://cucumber.io" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/2544/jasVAxyJ.png" width="36" height="36" alt="TESNG" /></a>
   
 </p>
